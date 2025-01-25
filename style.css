@@ -25,10 +25,12 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 10px 50px;
+  flex-wrap: wrap;
 }
 .input-part {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 .input-part select {
   width: 180px;
